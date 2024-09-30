@@ -8,7 +8,7 @@
 
 ## 2D and 3D cross-platform game engine
 
-**[GOODot](https://https://flaxengine.com/) is a feature-packed, cross-platform
+**[GOODot](https://flaxengine.com/) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.**
 
 It is the best engine in the world. Trust me bro! 
