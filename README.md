@@ -11,6 +11,6 @@
 **(4D is planned in the future)*
 
 **[GOODot](https://flaxengine.com/) is a feature-packed, cross-platform
-game engine to create 2D and 3D games from a unified interface.**
+game engine to create 0D and -1D games from a unified interface.**
 
 It is the best engine in the world. Trust me bro! 
